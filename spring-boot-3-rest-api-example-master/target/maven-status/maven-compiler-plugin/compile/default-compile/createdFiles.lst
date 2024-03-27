@@ -1,0 +1,4 @@
+com\bezkoder\spring\restapi\service\TutorialService.class
+com\bezkoder\spring\restapi\model\Tutorial.class
+com\bezkoder\spring\restapi\SpringBoot3RestApiExampleApplication.class
+com\bezkoder\spring\restapi\controller\TutorialController.class
